@@ -1,3 +1,3 @@
-a = 1
-b = 2
-print (a + b)
+a = 15
+b = 25
+print (a * b)
